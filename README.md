@@ -1,22 +1,30 @@
-# Mon Portfolio
+# Portfolio Développeur Web
 
 Bienvenue sur mon portfolio personnel !  
-Ce site présente mon parcours, mes compétences et mes projets réalisés.
+Ce site présente une sélection de projets que j'ai réalisés ainsi que les principales technologies que j'ai apprises au cours de ma formation.
 
-## 🔥 Fonctionnalités
-- Présentation rapide de mon profil
-- Liste de mes compétences principales
-- Projets que j'ai réalisés
-- Formulaire de contact
+## 🚀 Projets mis en avant
+Découvrez quelques-unes de mes réalisations concrètes, illustrant mes compétences en développement web frontend et backend.
 
 ## 🛠 Technologies utilisées
-- Bootstrap 5
-
+- **HTML5** : structure sémantique des pages
+- **CSS3** : mise en page responsive et animations
+- **Bootstrap 5** : création d'interfaces modernes et adaptatives
+- **JavaScript** : ajout d'interactions dynamiques côté client
+- **PHP** : développement de fonctionnalités côté serveur
+- **Python** : scripts et automatisations backend simples
 
 ## 🌐 Déploiement
-Ce site est hébergé grâce à GitHub Pages :  
-[Voir le portfolio en ligne](https://tonpseudo.github.io/portfolio)
+Ce portfolio est hébergé grâce à GitHub Pages.  
+🔗 [Voir le site en ligne](https://github.io/magaly68(portfolio)  
+
+## 📚 Objectif
+Mettre en valeur mes compétences et proposer un accès direct à mes projets personnels, afin de partager mon parcours avec des recruteurs ou des collaborateurs potentiels.
 
 ## 📄 Licence
-Ce projet est librement accessible pour consultation.  
-Toute reproduction sans autorisation n'est pas autorisée.
+Ce projet est mis à disposition pour consultation personnelle.  
+Merci de me contacter avant toute utilisation ou diffusion de son contenu.
+
+---
+
+> ✨ N'hésitez pas à visiter régulièrement : de nouveaux projets seront ajoutés prochainement !
